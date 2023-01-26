@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T00:24:12.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.11" etag="v-42X--6rd-MtuoRJUiR" type="github"><diagram name="Страница 1" id="sT6-e_oZiwwfPqJMIbgB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-26T03:35:59.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VFUQedHfgTFMAdnQcssu" version="20.8.11" type="github">
+  <diagram name="Страница 1" id="sT6-e_oZiwwfPqJMIbgB">
+    <mxGraphModel dx="1434" dy="3102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w-snwDp93SnZBDzvjP-G-1" value="Скопировать по API в Я.Диск файл с Linux любому пользователю" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1480" width="290" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="w-snwDp93SnZBDzvjP-G-2" value="Со своей Ubuntu WSL посредством скрипта с HTTP-запросами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-1640" width="190" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
