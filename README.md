@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sir-Holmes
-- 👀 I’m interested in many things
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Video Games
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on my YouTube channel: youtube.com/c/SirHolmes/
+- 📫 You may reach me there :)
 
 <!---
 Sir-Holmes/Sir-Holmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
