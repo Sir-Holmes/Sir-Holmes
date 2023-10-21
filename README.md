@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sir-Holmes
 - 👀 I’m interested in Video Games
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on my YouTube channel: youtube.com/c/SirHolmes/
+- 💞️ I’m looking to collaborate on my creativity: hipolink.me/sir-holmes
 - 📫 You may reach me there :)
 
 <!---
