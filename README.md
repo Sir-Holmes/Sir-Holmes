@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sir-Holmes
-- 👀 I’m interested in Video Games
+- 👀 I’m interested in Video Games and Heavy Metal
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on my creativity: hipolink.me/sir-holmes
 - 📫 You may reach me there :)
